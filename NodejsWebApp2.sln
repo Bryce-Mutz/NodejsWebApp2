@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp2", "NodejsWebApp2\NodejsWebApp2.njsproj", "{91DE2F87-1809-49E0-88D1-CB6C3CB70D89}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExpressApp2", "ExpressApp2\ExpressApp2.njsproj", "{F97DD2F9-799A-47F0-8737-AE389229F8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DE2F87-1809-49E0-88D1-CB6C3CB70D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DE2F87-1809-49E0-88D1-CB6C3CB70D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DE2F87-1809-49E0-88D1-CB6C3CB70D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DE2F87-1809-49E0-88D1-CB6C3CB70D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97DD2F9-799A-47F0-8737-AE389229F8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97DD2F9-799A-47F0-8737-AE389229F8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97DD2F9-799A-47F0-8737-AE389229F8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97DD2F9-799A-47F0-8737-AE389229F8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B42BD8F0-BFFF-475B-AA95-1A6B8661B803}
+	EndGlobalSection
+EndGlobal
